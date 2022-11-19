@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MyfirstprojectApplication<myfirstproject>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.abhi.myfirstproject.MyfirstprojectApplication",
+            "projectName": "myfirstproject",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
